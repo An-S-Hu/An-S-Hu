@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🔭 Currently exploring new opportunities in software development  
 - 🌱 Deepening my skills in Data Structures & Algorithms and Full-Stack Development  
-- 👨‍💻 Portfolio: [Visit My Website](https://portfolio-n5h0.onrender.com/portfolio.html)  
+- 👨‍💻 Portfolio: [Visit My Website](https://anshugupta.onrender.com/)  
 - 📫 Reach me: **anxshugupta@gmail.com**  
 - ⚡ Fun fact: I like making machines talk and browsers dance 🎭
 
