@@ -4,7 +4,9 @@
 <h3 align="center">💻 IT Enthusiast | Problem Solver | Lifelong Learner from Nepal 🇳🇵</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JxcmoyYjhxZGJpZWh1YjJ5b2ozYmRvd3JwZTlobTR6d292M2QyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Cool Developer GIF" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600">
+<br><br>
+
 </p>
 
 ---
