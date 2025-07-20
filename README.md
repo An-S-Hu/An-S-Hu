@@ -105,6 +105,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-S-Hu&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=An-S-Hu&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+</p>
+
+
 ## 🗓️ Contribution Calendar
 
 <p align="center">
